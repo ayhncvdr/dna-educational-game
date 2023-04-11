@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 027bdd4c63b6e664eb9f88305522d440
+  - enabled: 1
+    path: Assets/Scenes/School.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lab.unity
+    guid: 249acbf4784e6b64ba6ad95961f0253f
+  - enabled: 1
+    path: Assets/Scenes/Activity1.unity
+    guid: e8f2c0c6a73232e43a4a3e652d3eb2c8
+  - enabled: 1
+    path: Assets/Scenes/Activity2_DragDrop.unity
+    guid: 59d7486c2f41a1742801277516a47b5d
+  - enabled: 1
+    path: Assets/Scenes/activity3.unity
+    guid: 21d6c591ccc515e4b8e17cd26828b512
+  - enabled: 1
+    path: Assets/Scenes/activity4.unity
+    guid: 4de3df4bdc6997541ad4e7c8eed00a73
+  - enabled: 1
+    path: Assets/Scenes/activity5.unity
+    guid: 907a28d6fff789240aed6e903a004c4a
+  - enabled: 1
+    path: Assets/Scenes/activity6.unity
+    guid: 908ea7aadae49464d959861a8afd6d64
+  - enabled: 1
+    path: Assets/Scenes/Final1.unity
+    guid: ad573996562712e479fa439740fa834c
+  - enabled: 1
+    path: Assets/Scenes/Bolum2Intro.unity
+    guid: be9a0dc5831b8434fb6acf20acdd72d8
+  - enabled: 1
+    path: Assets/Scenes/activity7.unity
+    guid: f1051a62ab2dd8c489c4c70115e45328
+  - enabled: 1
+    path: Assets/Scenes/activity8.unity
+    guid: c24d6e980b3c0284b89a2cc2288f57cf
+  - enabled: 1
+    path: Assets/Scenes/activity9.unity
+    guid: f8396313fd3e5954a883bd2e4eb50eb1
+  - enabled: 1
+    path: Assets/Scenes/activity10.unity
+    guid: 91789fd55b6662247a63917d111c6025
+  - enabled: 1
+    path: Assets/Scenes/activity11.unity
+    guid: e6bb84ff77301fc48a1e425b5cacc66a
+  - enabled: 1
+    path: Assets/Scenes/activity12.unity
+    guid: 518f4e8990cd4ea449a327257351a99d
+  - enabled: 1
+    path: Assets/Scenes/activity13.unity
+    guid: 593d75c99b346c549bfff01e2a45efaf
+  - enabled: 1
+    path: Assets/Scenes/Final2.unity
+    guid: c369d953aab282c4c83733bdf79dd323
+  - enabled: 1
+    path: Assets/Scenes/Kapanis.unity
+    guid: 08ecd71ff2680a24698298d83fff4e4e
+  m_configObjects: {}

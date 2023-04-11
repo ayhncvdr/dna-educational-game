@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 8bcf04c75b31e55429868c5827e24cd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1382716858430940419
+    second: studentsag_0
+  - first:
+      213: -3676906893014436646
+    second: studentsag_1
+  - first:
+      213: -2555018280517576684
+    second: studentsag_3
+  - first:
+      213: -5967366390087349232
+    second: studentsag_4
+  - first:
+      213: -566128945594705145
+    second: studentsag_5
+  - first:
+      213: -3190147403301293822
+    second: studentsag_6
+  - first:
+      213: 3566742723878856316
+    second: studentsag_7
+  - first:
+      213: -1074682251149561397
+    second: studentsag_9
+  - first:
+      213: 7862468461752461356
+    second: studentsag_12
+  - first:
+      213: -962342128700289132
+    second: studentsag_13
+  - first:
+      213: -6684423593743215066
+    second: studentsag_14
+  - first:
+      213: -5809496528354902940
+    second: studentsag_15
+  - first:
+      213: -7437527699938311339
+    second: studentsag_16
+  - first:
+      213: -8182754673541684639
+    second: studentsag_17
+  - first:
+      213: -5925343188056093559
+    second: studentsag_18
+  - first:
+      213: 131842925411865319
+    second: studentsag_19
+  - first:
+      213: -4824521560133961788
+    second: studentsag_20
+  - first:
+      213: 5579831303977309223
+    second: studentsag_21
+  - first:
+      213: -7836819433570819056
+    second: studentsag_22
+  - first:
+      213: 4133677305258531700
+    second: studentsag_23
+  - first:
+      213: 4036038569490464460
+    second: studentsag_24
+  - first:
+      213: 1696474940582621269
+    second: studentsag_25
+  - first:
+      213: 5692412777189275872
+    second: studentsag_26
+  - first:
+      213: 1946397333358650192
+    second: studentsag_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: studentsag_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 614
+        width: 100
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa974cd75a9fcce0800000000000000
+      internalID: -1382716858430940419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 613
+        width: 60
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad470b179a009fcc0800000000000000
+      internalID: -3676906893014436646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 613
+        width: 57
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418de133960ca8cd0800000000000000
+      internalID: -2555018280517576684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 613
+        width: 58
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c0d3a72e7af2da0800000000000000
+      internalID: -5967366390087349232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 606
+        width: 65
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd2c439b4b428f0800000000000000
+      internalID: -566128945594705145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 615
+        width: 87
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201771db6d15ab3d0800000000000000
+      internalID: -3190147403301293822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_7
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 615
+        width: 71
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7622062c9d9f7130800000000000000
+      internalID: 3566742723878856316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_9
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 617
+        width: 77
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc130ddbf26f511f0800000000000000
+      internalID: -1074682251149561397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 325
+        width: 108
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28a778a8691d1d60800000000000000
+      internalID: 7862468461752461356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 326
+        width: 84
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f0d62cee215a2f0800000000000000
+      internalID: -962342128700289132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 327
+        width: 71
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62612b638282c33a0800000000000000
+      internalID: -6684423593743215066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 328
+        width: 77
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c7a8fffa5806fa0800000000000000
+      internalID: -5809496528354902940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 321
+        width: 84
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5538c0e66f798c890800000000000000
+      internalID: -7437527699938311339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 328
+        width: 62
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162616f7af3017e80800000000000000
+      internalID: -8182754673541684639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 323
+        width: 56
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc2a7a3c3f4cda0800000000000000
+      internalID: -5925343188056093559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_19
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 326
+        width: 82
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2925f217664d100800000000000000
+      internalID: 131842925411865319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_20
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 39
+        width: 149
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c77005d33bdb0db0800000000000000
+      internalID: -4824521560133961788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 39
+        width: 120
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241c2cf10b8f6d40800000000000000
+      internalID: 5579831303977309223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 39
+        width: 62
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01422251f360e3390800000000000000
+      internalID: -7836819433570819056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 38
+        width: 108
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5704ab95cd5930800000000000000
+      internalID: 4133677305258531700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_24
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 37
+        width: 62
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce3142f1b3e20830800000000000000
+      internalID: 4036038569490464460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_25
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 37
+        width: 56
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55077cb58f61b8710800000000000000
+      internalID: 1696474940582621269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_26
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 36
+        width: 61
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f24bd2438ffe40800000000000000
+      internalID: 5692412777189275872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: studentsag_27
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 36
+        width: 102
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532c9eef0ef20b10800000000000000
+      internalID: 1946397333358650192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      studentsag_25: 1696474940582621269
+      studentsag_1: -3676906893014436646
+      studentsag_3: -2555018280517576684
+      studentsag_23: 4133677305258531700
+      studentsag_21: 5579831303977309223
+      studentsag_16: -7437527699938311339
+      studentsag_7: 3566742723878856316
+      studentsag_19: 131842925411865319
+      studentsag_18: -5925343188056093559
+      studentsag_20: -4824521560133961788
+      studentsag_15: -5809496528354902940
+      studentsag_9: -1074682251149561397
+      studentsag_13: -962342128700289132
+      studentsag_14: -6684423593743215066
+      studentsag_26: 5692412777189275872
+      studentsag_6: -3190147403301293822
+      studentsag_5: -566128945594705145
+      studentsag_17: -8182754673541684639
+      studentsag_24: 4036038569490464460
+      studentsag_12: 7862468461752461356
+      studentsag_27: 1946397333358650192
+      studentsag_0: -1382716858430940419
+      studentsag_4: -5967366390087349232
+      studentsag_22: -7836819433570819056
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
